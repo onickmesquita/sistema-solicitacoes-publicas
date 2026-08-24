@@ -1,6 +1,6 @@
 # Sistema de Solicitações Públicas (Demo)
 
-> ⚠️ **Projeto fictício de portfólio.** Recriado do zero, com dados e nomes inventados, para demonstrar a mesma arquitetura e stack utilizadas em um sistema real de estágio (setor público), sem reutilizar nenhum código ou informação daquele projeto.
+> ⚠️ **Projeto fictício de portfólio.** Recriado do zero, com dados e nomes inventados, para demonstrar a mesma arquitetura e stack utilizadas no sistema do novo Depósito Público do Rio de Janeiro (SGDP), do qual fiz parte, sem reutilizar nenhum código ou informação daquele projeto.
 
 ## 🎯 Objetivo
 
