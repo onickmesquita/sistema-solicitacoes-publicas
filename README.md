@@ -1,8 +1,8 @@
 # Sistema de Solicitações Públicas (Demo)
 
-> ⚠️ **Projeto fictício de portfólio.** Recriado do zero, com dados e nomes inventados, para demonstrar a mesma arquitetura e stack utilizadas no sistema do novo Depósito Público do Rio de Janeiro (SGDP), do qual fiz parte, sem reutilizar nenhum código ou informação daquele projeto.
+>  **Projeto fictício de portfólio.** Recriado do zero, com dados e nomes inventados, para demonstrar a mesma arquitetura e stack utilizadas no sistema do novo Depósito Público do Rio de Janeiro (SGDP), do qual fiz parte, sem reutilizar nenhum código ou informação daquele projeto.
 
-## 🎯 Objetivo
+## Objetivo
 
 Sistema onde um cidadão fictício pode abrir, listar e acompanhar "solicitações" (ex: pedidos de documentos, agendamentos) junto a um órgão público. O foco do projeto é demonstrar:
 
@@ -11,7 +11,7 @@ Sistema onde um cidadão fictício pode abrir, listar e acompanhar "solicitaçõ
 - Integração PHP (API) + React (SPA)
 - Princípios SOLID aplicados na prática
 
-## 🏗️ Arquitetura
+## Arquitetura
 
 ```
 Requisição HTTP
@@ -34,12 +34,12 @@ Requisição HTTP
 
 Essa separação segue o princípio de **Responsabilidade Única (SRP)**: cada camada faz uma coisa só, o que facilita manutenção, testes e onboarding de outros devs.
 
-## 🛠️ Stack
+## Stack
 
 **Backend:** PHP 8 + CodeIgniter 4, MySQL
 **Frontend:** React + Vite
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 sistema-solicitacoes-publicas/
@@ -59,7 +59,7 @@ sistema-solicitacoes-publicas/
         └── services/api.js
 ```
 
-## 🚀 Como rodar (ambiente local)
+## Como rodar (ambiente local)
 
 **Backend** (requer PHP 8+, Composer e CodeIgniter 4 instalados):
 ```bash
@@ -76,7 +76,7 @@ npm install
 npm run dev
 ```
 
-## 📌 Próximos passos (roadmap DevSecOps)
+## Próximos passos (roadmap DevSecOps)
 
 - [ ] Adicionar autenticação (JWT)
 - [ ] Dockerfile para backend e frontend
